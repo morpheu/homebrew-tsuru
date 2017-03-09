@@ -3,7 +3,7 @@ class Tsuru < Formula
   homepage "https://tsuru-client.readthedocs.org/"
   url "https://github.com/morpheu/tsuru-client/releases/download/1.2.0/tsuru_1.2.0_macOS_amd64.tar.gz"
   version "1.2.0"
-  sha256 "18baf2ce40fd2efae1c9fe188ab7ebcf5a4b089cd5b1b057bd23a9f0a36975e2"
+  sha256 "5aedc73061cf1612dac358415b07dc283bf6e7051b8643c681a1e2de42d74566"
   
   depends_on "go"
 
