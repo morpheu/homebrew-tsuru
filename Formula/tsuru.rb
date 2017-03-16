@@ -1,9 +1,9 @@
 class Tsuru < Formula
   desc "tsuru-client is a tsuru command line tool for application developers."
   homepage "https://tsuru-client.readthedocs.org/"
-  url "https://github.com/morpheu/tsuru-client/releases/download/1.2.20/tsuru_1.2.20_macOS_amd64.tar.gz"
-  version "1.2.20"
-  sha256 "3d666e5b7870005fa71fa1a332105b7eb1905237112c95f2ac969a1449bbc985"
+  url "https://github.com/morpheu/tsuru-client/releases/download/1.2.22/tsuru_1.2.22_macOS_amd64.tar.gz"
+  version "1.2.22"
+  sha256 "a8c4d838616b3b3d44bbeb2fbb1be9d87d11cfd849717a154edafe44857a4b48"
 
   def install
     bin.install "tsuru"
